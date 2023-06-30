@@ -8,4 +8,4 @@ function callBackTimeOut(callback){
     setTimeout(callback,2000);
 }
 
-console.log(callBackTimeOut(fac));
+console.log(callBackTimeOut(fac)); 
